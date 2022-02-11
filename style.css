@@ -4,7 +4,7 @@
 
 header {
     padding: 15px;
-    background: url('data/pattern.webp');
+    background: url("docs/assets/images/pattern.webp");
     background-origin: content-box;
     background-repeat: no-repeat;
 
